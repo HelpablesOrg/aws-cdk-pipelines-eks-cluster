@@ -11,7 +11,7 @@
     "cdk": "cdk"
   },
   "license": "MIT-0",
-  "repository": "https://github.com/aws-samples/aws-cdk-pipelines-eks-cluster",
+  "repository": "https://github.com/HelpablesOrg/aws-cdk-pipelines-eks-cluster",
   "devDependencies": {
     "@types/jest": "^29.5.12",
     "@types/node": "20.11.19",
